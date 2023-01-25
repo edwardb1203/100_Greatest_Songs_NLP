@@ -1,2 +1,2 @@
-# 100_Greatest_Songs_NLP
-In this project I explore the Rolling Stone's top 100 greatest songs of all time using Python NLTK. Full project explanation in notebook.
+# 100 Greatest Songs-NLP
+In this project I explore the Rolling Stone's top 100 greatest songs of all time using Python NLTK. I downloaded Rolling Stone's 100 greatest songs and used this to scrape Genius.com for the lyrics of the songs. I then cleaned the text data, created word vectors, and performed some elementary analysis. I tried to answer two questions: Is the vulgarity of songs positively correlated with year released? How many songs discuss love, and are love songs positively correlated with year released? See the notebook for full comments and results
